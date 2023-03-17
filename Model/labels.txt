@@ -1,0 +1,5 @@
+0 Aleph
+1 Bet
+2 Gimel
+3 Dot
+4 Dalet
